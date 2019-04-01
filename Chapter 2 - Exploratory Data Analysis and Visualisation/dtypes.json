@@ -19,8 +19,6 @@
     "latitude": "float",
     "longitude": "float",
     "region_code": "str",
-    "deaths": "float",
-    "deaths_description": "str",
     "injuries": "float",
     "injuries_description": "str",
     "damage_millions_dollars": "float",
